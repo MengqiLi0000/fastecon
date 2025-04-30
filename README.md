@@ -14,8 +14,5 @@ It is designed to simplify and accelerate common tasks in empirical research, in
 ## Installation
 
 ```r
-# Install from local clone
-devtools::install("path/to/fastecon")
-
-# Or from GitHub 
+# Install from GitHub 
 devtools::install_github("MengqiLi0000/fastecon")
